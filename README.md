@@ -5,6 +5,6 @@ Final project for CSIS 1400 class at SLCC. The project was picked to challenge m
 # Build Status
 The files available are for the final state of the project. 
 # Installation
-Download files into a folder and open with desired IDE. 
+Download files into a folder and open with desired IDE. TeamProject.gpj is JGrasp's project file. 
 # How to use
 Run SortingApp class. Pick an array length from given prompts, then a sorting algorithm. In a JFrame, the visual portion of this program will run showing the algorithm run.  
