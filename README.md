@@ -1,5 +1,5 @@
 # VisualSorting
-Small visual sorting program created using JGrasp. GUI components coded manually. Code written by classmates Quentin Howa, Alex Robertson, and Kevin Dapper. Project shown at SLCC's 2019 Fall Jamboree
+Small visual sorting program created using JGrasp. GUI components coded manually. Code written by classmates Quentin Howa, Alex Robertson, and Kevin Dapper. Project shown at SLCC's 2019 Fall Jamboree.
 # Motivation
 Final project for CSIS 1400 class at SLCC. The project was picked to challenge my classmates and I to explore algorithms and GUIs which were not covered in class. 
 # Build Status
